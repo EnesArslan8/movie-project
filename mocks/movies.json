@@ -4,7 +4,7 @@
       {
         "adult": false,
         "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
-        "genre_ids": [28, 12, 878],
+        "genre_ids": [28, 12, 878,16],
         "id": 505642,
         "original_language": "en",
         "original_title": "Black Panther: Wakanda Forever",
@@ -52,7 +52,7 @@
       {
         "adult": false,
         "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
-        "genre_ids": [28, 14, 878],
+        "genre_ids": [28, 14, 878,16,35],
         "id": 436270,
         "original_language": "en",
         "original_title": "Black Adam",
@@ -68,7 +68,7 @@
       {
         "adult": false,
         "backdrop_path": "/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg",
-        "genre_ids": [14, 28, 35, 80],
+        "genre_ids": [14, 28, 35, 80,16],
         "id": 1013860,
         "original_language": "en",
         "original_title": "R.I.P.D. 2: Rise of the Damned",
@@ -85,7 +85,7 @@
       {
         "adult": false,
         "backdrop_path": "/olPXihyFeeNvnaD6IOBltgIV1FU.jpg",
-        "genre_ids": [27, 9648, 53],
+        "genre_ids": [27, 9648, 53,10751],
         "id": 882598,
         "original_language": "en",
         "original_title": "Smile",
@@ -117,7 +117,7 @@
       {
         "adult": false,
         "backdrop_path": "/au4HUSWDRadIcl9CqySlw1kJMfo.jpg",
-        "genre_ids": [80, 28, 53],
+        "genre_ids": [80, 28, 53,10751],
         "id": 829799,
         "original_language": "en",
         "original_title": "Paradise City",
@@ -165,7 +165,7 @@
       {
         "adult": false,
         "backdrop_path": "/gVecEIEZLZg3pV5CACXAB48I6au.jpg",
-        "genre_ids": [80, 18, 9648, 53],
+        "genre_ids": [80, 18, 9648, 53,36],
         "id": 862965,
         "original_language": "en",
         "original_title": "Emily the Criminal",
@@ -181,7 +181,7 @@
       {
         "adult": false,
         "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
-        "genre_ids": [28, 18, 53],
+        "genre_ids": [28, 18, 53,36],
         "id": 948276,
         "original_language": "fr",
         "original_title": "Balle perdue 2",
@@ -214,7 +214,7 @@
       {
         "adult": false,
         "backdrop_path": "/y5Z0WesTjvn59jP6yo459eUsbli.jpg",
-        "genre_ids": [27, 53],
+        "genre_ids": [27, 53,10752],
         "id": 663712,
         "original_language": "en",
         "original_title": "Terrifier 2",
@@ -230,7 +230,7 @@
       {
         "adult": false,
         "backdrop_path": "/f9g3R9gq0bASip9RnK2H56dbb5j.jpg",
-        "genre_ids": [53],
+        "genre_ids": [53,10752],
         "id": 979924,
         "original_language": "en",
         "original_title": "On the Line",

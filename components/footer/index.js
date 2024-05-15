@@ -5,8 +5,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className='footer'>
-      Made with  
-      <Link href='/' target='_blank'>Enes Arslan</Link>
+      Made with by 
+      <Link href='/' target='_blank' style={{margin:'0 10px'}}>Enes Arslan</Link>
     </footer>
   )
 }

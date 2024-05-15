@@ -8,7 +8,9 @@ const MoviesSection = ({title,movies}) => {
         <div className="moviesSection">
           <h3 className="title">{title}</h3>
           <div className="movies">
-            {movies.map((movie) => (
+            
+              
+              {movies.map((movie) => (
               <div className="movie" key={movie.id}>
                 <Link href={`/movie/${movie.id}`}>
                   <Image
@@ -20,6 +22,7 @@ const MoviesSection = ({title,movies}) => {
                 </Link>
               </div>
             ))}
+              
           </div>
         </div>
       );
