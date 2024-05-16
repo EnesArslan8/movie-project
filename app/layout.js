@@ -1,3 +1,4 @@
+'use client'
 import '../styles/reset.css'
 import '../styles/global.css'
 import { Footer, Header } from '@/components';
